@@ -6,8 +6,8 @@ compile assets on the server for every request... no need to run watch scripts.
 
 In your projects root directory run
 
-  mkdir node_modules
-  npm install dpd-assets
+    mkdir node_modules
+    npm install dpd-assets
   
 ## less
 
