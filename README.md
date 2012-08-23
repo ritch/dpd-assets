@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/ritch/dpd-assets.png)](http://travis-ci.org/ritch/dpd-assets)
 # dpd assets
 
 compile assets on the server for every request... no need to run watch scripts.
